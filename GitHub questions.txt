@@ -1,0 +1,11 @@
+How to upload a project to GitHub by Gitbash or prompt
+
+URL video:https://youtu.be/qMck70tLDuo
+
+How to delete a folder on Github by Gitbash or prompt
+
+URL video:https://youtu.be/ca_-OXBQtGw
+
+How to delete your local Git repository
+
+URL video:https://youtu.be/-sdYsDumGgM
